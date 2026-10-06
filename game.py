@@ -11,4 +11,5 @@ if guess == number:
     print("Correct! You won!")
 else:
     print("Wrong! The number was", number)
-    
+
+print("Thank you for playing!")
